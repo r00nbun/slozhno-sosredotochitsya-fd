@@ -15,19 +15,19 @@
   --general-padding: 10px 10px;
   --general-gap: 10px;
   --block-gap: 20.5px;
-  --header-size: 668px;
+  --min-header-size: 668px;
 }
 
 @media (width >= 765px) {
   :root {
     --general-padding: 20px 20px;
-    --header-size: 1024px;
     --general-gap: 20px;
+    --min-header-size: 1024px;
   }
 }
 
 @media (width >= 1024px) {
   :root {
-    --header-size: 765px;
+    --min-header-size: 768px;
   }
 }
