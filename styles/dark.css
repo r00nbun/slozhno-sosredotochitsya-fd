@@ -12,6 +12,7 @@
   --main-title-color: #DB00FF;
   --title-color: #000028;
   --text-color: #F1B2CE;
+  --button-hover: rgb(255, 0, 112, 0.4);
 }
 
 .theme-dark .header__decorate {
